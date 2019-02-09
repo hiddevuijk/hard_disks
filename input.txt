@@ -1,9 +1,9 @@
-N = 25 # number of particles
+N = 50 # number of particles
 L = 10.
-d = 1.
+d = 0.5
 T_init = 1
 T = 1000
 T_sample = 1
-multiplier = 2000
+multiplier = 20000
 T_print = 20000
 Nbin = 1000

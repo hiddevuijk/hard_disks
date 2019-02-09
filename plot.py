@@ -5,7 +5,7 @@ data = np.loadtxt("config.dat")
 x = data[:,0]
 y = data[:,1]
 
-L = 10.
+L = 10.1
 r = .5
 fig, ax = plt.subplots()
 
