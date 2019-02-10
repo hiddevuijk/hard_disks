@@ -1,0 +1,10 @@
+ncell = 10
+N = 250 # number of particles
+L = 50.
+d = .05
+T_init = 100
+T = 100
+T_sample = 1
+multiplier = 20
+T_print = 500
+Nbin = 10000
